@@ -2,9 +2,8 @@ package unittest.csv40;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.*;
-
 import edu.vcccd.vc.csv40.HelloWorld;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
